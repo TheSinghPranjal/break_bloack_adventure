@@ -1,0 +1,10277 @@
+[
+ {
+  "levelId": 1,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "tip": "Drag or swipe a block onto the pad of the same colour.",
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n1",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 2,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 3,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n1",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     0
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 4,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 5,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n1",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 6,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 4,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 7,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 8,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n1",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 9,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n1",
+    "kind": "normal",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 10,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n1",
+    "kind": "normal",
+    "row": 0,
+    "col": 4,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 11,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n2",
+    "kind": "normal",
+    "row": 4,
+    "col": 5,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 12,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n2",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 13,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 8,
+  "threeStarMoves": 3,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 14,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 5,
+    "height": 3,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 15,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 15,
+  "twoStarMoves": 7,
+  "threeStarMoves": 2,
+  "difficulty": "beginner",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n2",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     5
+    ],
+    "color": "red"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 16,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 17,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 5,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 18,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 19,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 5,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     1
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 20,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 0,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 0,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 21,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 1,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 22,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 23,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 24,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 0,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 25,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 26,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 1,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 4,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 27,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 28,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 4,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 29,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 4,
+    "col": 4,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 30,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 31,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 1,
+    "col": 2,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 32,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 33,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n2",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 34,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 13,
+  "twoStarMoves": 8,
+  "threeStarMoves": 4,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 35,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 7,
+  "threeStarMoves": 3,
+  "difficulty": "easy",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 36,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 4,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 3,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 37,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 12,
+  "twoStarMoves": 9,
+  "threeStarMoves": 6,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 4,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 1,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 38,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 0,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 0,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 0,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 39,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 40,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 1,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 4,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 41,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 42,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 4,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 43,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 2,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 1,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 44,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 1,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 5,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 45,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 11,
+  "twoStarMoves": 8,
+  "threeStarMoves": 5,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 46,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 11,
+  "twoStarMoves": 8,
+  "threeStarMoves": 5,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 4,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 47,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 1,
+    "col": 1,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 48,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 4,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 49,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 4,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 1,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 50,
+  "worldId": 1,
+  "rows": 6,
+  "columns": 6,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 4,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 1,
+    "col": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 51,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 5,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 2,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 52,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 2,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n2",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 1,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 53,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 1,
+    "col": 4,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 54,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 3,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 5,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 55,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 4,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 4,
+    "col": 0,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 56,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n2",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 57,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 1,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 5,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 58,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 11,
+  "twoStarMoves": 8,
+  "threeStarMoves": 5,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 6,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     2
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 59,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 4,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 60,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 7,
+  "threeStarMoves": 4,
+  "difficulty": "medium",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     0
+    ],
+    "color": "blue"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 61,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 62,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 4,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 0,
+    "axis": "vertical"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n14",
+    "kind": "normal",
+    "row": 6,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 63,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 2,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 64,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 6,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     5
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 65,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 6,
+    "axis": "vertical"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 6,
+    "axis": "vertical"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 5,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 2,
+    "col": 6,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 66,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 1,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 6,
+    "col": 1,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 67,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 5,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 5,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 6,
+    "col": 2,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 68,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 1,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 4,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "axis": "vertical"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 0,
+    "col": 1,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 69,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 4,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 3,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c8",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 3,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 6,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 6,
+    "col": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     5
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 70,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 3,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 6,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 71,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 4,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 4,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 3,
+    "col": 6,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 5,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     6
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     2,
+     6
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 72,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 5,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c8",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 6,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 1,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 4,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     6,
+     5
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 73,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 8,
+  "threeStarMoves": 6,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 3,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 0,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     0
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 74,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 8,
+  "threeStarMoves": 6,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 6,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 4,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 5,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c13",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 4,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n14",
+    "kind": "normal",
+    "row": 2,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n15",
+    "kind": "normal",
+    "row": 1,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n18",
+    "kind": "normal",
+    "row": 4,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n25",
+    "kind": "normal",
+    "row": 1,
+    "col": 5,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 75,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 6,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 5,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c8",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c10",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c11",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 4,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n16",
+    "kind": "normal",
+    "row": 2,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n19",
+    "kind": "normal",
+    "row": 1,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     4,
+     3
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 76,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 5,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 5,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 4,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c9",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 2,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c10",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 1,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n14",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n15",
+    "kind": "normal",
+    "row": 2,
+    "col": 6,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n20",
+    "kind": "normal",
+    "row": 0,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n22",
+    "kind": "normal",
+    "row": 1,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     6
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 77,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 5,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 4,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     0,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     0,
+     3
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 78,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 8,
+  "threeStarMoves": 6,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 3,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 3,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c8",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c9",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "axis": "vertical"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 5,
+    "col": 0,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 0,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 79,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 4,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     0
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     5,
+     0
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 80,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 10,
+  "twoStarMoves": 8,
+  "threeStarMoves": 6,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 4,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 4,
+    "col": 3,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 6,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 6,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 2,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 6,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 81,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 2,
+    "col": 4,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "green",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n3",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 1,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 6,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 82,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 5,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 6,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c8",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 0,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 1,
+    "col": 5,
+    "axis": "vertical"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     3
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     0,
+     5
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 83,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "c0",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 6,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 5,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     0,
+     2
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 84,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 4,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 6,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c9",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 6,
+    "col": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 4,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 6,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     3,
+     3
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 85,
+  "worldId": 1,
+  "rows": 7,
+  "columns": 7,
+  "moveLimit": 9,
+  "twoStarMoves": 7,
+  "threeStarMoves": 5,
+  "difficulty": "hard",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 5,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 4,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "green",
+    "row": 3,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 6,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 2,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     5
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 86,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 7,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 5,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 3,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 7,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 3,
+    "col": 6,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 2,
+    "col": 6,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     0,
+     0
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     0,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     3,
+     6
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     3,
+     7
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 87,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 6,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 5,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "green",
+    "row": 3,
+    "col": 1,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 6,
+    "col": 7,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 1,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 0,
+    "col": 4,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     7,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     6
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 88,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 3,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s4",
+    "kind": "stone",
+    "row": 2,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 6,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     7,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 89,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 1,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 1,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 6,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 1,
+    "col": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 5,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 90,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 1,
+    "col": 7,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 4,
+    "col": 7,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 4,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 3,
+    "col": 1,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 4,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 0,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ },
+ {
+  "levelId": 91,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 7,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 7,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 4,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 5,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 3,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 6,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c9",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 0,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 0,
+    "col": 6,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 1,
+    "col": 0,
+    "axis": "both"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 5,
+    "col": 7,
+    "axis": "vertical"
+   },
+   {
+    "id": "n14",
+    "kind": "normal",
+    "row": 3,
+    "col": 1,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     5
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     6
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     0,
+     5
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     0,
+     6
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 92,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 2,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 0,
+    "col": 6,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 3,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 0,
+    "col": 5,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 7,
+    "col": 5,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     5
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 93,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 4,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 4,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 0,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "n5",
+    "kind": "normal",
+    "row": 0,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     7
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 94,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 5,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 2,
+    "col": 1,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 6,
+    "col": 6,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 2,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 1,
+    "col": 7,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 5,
+    "col": 0,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     1
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 95,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 8,
+  "twoStarMoves": 7,
+  "threeStarMoves": 6,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 4,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 6,
+    "col": 7,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "red",
+    "row": 1,
+    "col": 6,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "blue",
+    "row": 5,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c8",
+    "kind": "normal",
+    "color": "green",
+    "row": 1,
+    "col": 1,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c9",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 0,
+    "col": 4,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 6,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n11",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n12",
+    "kind": "normal",
+    "row": 3,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     7,
+     0
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     5,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     1
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     0,
+     7
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 96,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 1,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 5,
+    "col": 6,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "blue",
+    "row": 0,
+    "col": 1,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "green",
+    "row": 2,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 4,
+    "col": 0,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 4,
+    "col": 3,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 7,
+    "col": 1,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     4,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     5,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     6
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     0,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     0,
+     4
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     0,
+     0
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     1,
+     0
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     4,
+     5
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 97,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 0,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 4,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s3",
+    "kind": "stone",
+    "row": 7,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "c4",
+    "kind": "normal",
+    "color": "red",
+    "row": 3,
+    "col": 4,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 1,
+    "col": 2,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "green",
+    "row": 3,
+    "col": 6,
+    "axis": "both"
+   },
+   {
+    "id": "n7",
+    "kind": "normal",
+    "row": 3,
+    "col": 2,
+    "axis": "both"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 2,
+    "col": 1,
+    "axis": "vertical"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 0,
+    "col": 7,
+    "axis": "vertical"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     0
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 98,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "s1",
+    "kind": "stone",
+    "row": 2,
+    "col": 1,
+    "axis": "both"
+   },
+   {
+    "id": "s2",
+    "kind": "stone",
+    "row": 1,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "red",
+    "row": 6,
+    "col": 1,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c5",
+    "kind": "normal",
+    "color": "blue",
+    "row": 6,
+    "col": 3,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c6",
+    "kind": "normal",
+    "color": "green",
+    "row": 6,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 4,
+    "col": 7,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 5,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 5,
+    "col": 0,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 0,
+    "col": 0,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n13",
+    "kind": "normal",
+    "row": 4,
+    "col": 2,
+    "width": 2,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     3,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     4,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     6,
+     2
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     6,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     6,
+     7
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     7,
+     7
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 99,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 4,
+    "col": 3,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 5,
+    "col": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 3,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "c7",
+    "kind": "normal",
+    "color": "yellow",
+    "row": 4,
+    "col": 2,
+    "height": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 1,
+    "col": 5,
+    "width": 2,
+    "axis": "horizontal"
+   },
+   {
+    "id": "n9",
+    "kind": "normal",
+    "row": 1,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n10",
+    "kind": "normal",
+    "row": 6,
+    "col": 1,
+    "axis": "horizontal"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     6,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     7
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     2,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     3,
+     4
+    ],
+    "color": "green"
+   },
+   {
+    "cell": [
+     3,
+     2
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     4,
+     2
+    ],
+    "color": "yellow"
+   },
+   {
+    "cell": [
+     5,
+     2
+    ],
+    "color": "yellow"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 0
+  }
+ },
+ {
+  "levelId": 100,
+  "worldId": 1,
+  "rows": 8,
+  "columns": 8,
+  "moveLimit": 7,
+  "twoStarMoves": 6,
+  "threeStarMoves": 5,
+  "difficulty": "expert",
+  "matchRule": {
+   "type": "target"
+  },
+  "objectives": [
+   {
+    "type": "clear_targets"
+   }
+  ],
+  "blocks": [
+   {
+    "id": "s0",
+    "kind": "stone",
+    "row": 3,
+    "col": 7,
+    "axis": "both"
+   },
+   {
+    "id": "c1",
+    "kind": "normal",
+    "color": "red",
+    "row": 2,
+    "col": 0,
+    "width": 3,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c2",
+    "kind": "normal",
+    "color": "blue",
+    "row": 3,
+    "col": 1,
+    "axis": "horizontal"
+   },
+   {
+    "id": "c3",
+    "kind": "normal",
+    "color": "green",
+    "row": 0,
+    "col": 5,
+    "axis": "both"
+   },
+   {
+    "id": "n4",
+    "kind": "normal",
+    "row": 3,
+    "col": 3,
+    "axis": "vertical"
+   },
+   {
+    "id": "n6",
+    "kind": "normal",
+    "row": 6,
+    "col": 4,
+    "height": 2,
+    "axis": "vertical"
+   },
+   {
+    "id": "n8",
+    "kind": "normal",
+    "row": 0,
+    "col": 6,
+    "axis": "both"
+   }
+  ],
+  "targets": [
+   {
+    "cell": [
+     2,
+     1
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     2
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     2,
+     3
+    ],
+    "color": "red"
+   },
+   {
+    "cell": [
+     3,
+     6
+    ],
+    "color": "blue"
+   },
+   {
+    "cell": [
+     4,
+     4
+    ],
+    "color": "green"
+   }
+  ],
+  "rewards": {
+   "coins": 50,
+   "gems": 1
+  }
+ }
+]
